@@ -7,7 +7,7 @@ needed_result = [u"Average_FPS", u"Average_FPS"]
 result = []
 base_dir = r"C:\Users\Adong\Desktop\cache"
 # test for git
-dffd
+
 
 def get_result():
 	os.chdir(r"C:\Users\Adong\Desktop\cache")
