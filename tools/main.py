@@ -6,7 +6,6 @@ import os
 needed_result = [u"Average_FPS", u"Average_FPS"]
 result = []
 base_dir = r"C:\Users\Adong\Desktop\cache"
-# test for git
 
 
 def get_result():
